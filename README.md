@@ -10,6 +10,12 @@
 
 ---
 
+## Tools Used
+---
+VS code and Online C++ Compiler
+
+---
+
 ## Objective
 ---
 
